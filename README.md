@@ -8,9 +8,8 @@
 
 ## **Environment:**
 
-- HTML
-- JS
-- CSS
+- Chrome
+
 
 ## **Details**
 
