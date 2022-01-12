@@ -1,0 +1,8 @@
+“卡普兰”主战坦克重约20吨，是一种轻型坦克。首上装甲倾斜角度较大，首下装甲倾斜相对较小，以保障车内有较为宽敞的空间
+“卡普兰”战车采用模块化设计，不仅有坦克型，还可以改装为步兵战车，搭载105毫米火炮的坦克歼击车，配备轻型遥控武器站的装甲人员输送车
+卡普兰”中型坦克火力出众，备弹量大，机动能力卓越，炮塔采用CMI公司的“库里克尔”3105炮塔，可发射105毫米弹药;动力装置为一款柴油发动机，匹配全自动变速器;乘员包括车长、驾驶员、炮手三名。
+
+
+The Kaplan main battle tank weighs about 20 tons and is a light tank. The tilt angle of the first armor is large, and the tilt of the first armor is relatively small to ensure a more spacious space in the car
+The "Kaplan" tank has a modular design, not only a tank type, but also can be converted into an infantry tank, a tank destroyer equipped with 105mm artillery, and an armored personnel transport vehicle equipped with a light remote control weapon station
+The Kaplan medium-sized tank is superior in firepower, large in ammunition capacity, and has excellent maneuverability. The turret uses CMI's "Curiker" 3105 turret, which can fire 105mm ammunition; the power unit is a diesel engine, which is matched with an automatic transmission; The crew includes three captains, drivers and gunners.

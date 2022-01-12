@@ -1,0 +1,12 @@
+自行火炮(self-propelled artillery)是同车辆底盘构成一体自身能运动的火炮。
+自行火炮主要由武器系统、底盘部分和装甲车体组成。自行火炮除按炮种分类外，还可按行动装置的结构形式分为履带式、
+轮胎式和半履带式；按装甲防护分为全装甲式（封闭式）、半装甲式（半封闭式）和敞开式。全装甲式车体通常是密闭的，具有对核武器、化学武器和生物武器的防护能力。
+由于自行反坦克炮多用于伴随坦克进攻和作战，所以又称 “强击炮”。继德国之后，苏、英、美等国也研制发展了与德国相似的强击炮。
+自行火炮越野性能好，进出阵地快，多数有装甲防护，战场生存力强，有些还可浮渡。自行火炮的使用，更有利于不间断地实施火力支援，使炮兵和装甲兵、摩托化步兵的战斗协同更加紧密。
+
+
+Self-propelled artillery is an artillery that can move together with the chassis of the vehicle.
+The self-propelled artillery is mainly composed of the weapon system, the chassis part and the armored body. In addition to the classification of guns, self-propelled artillery can also be divided into tracked,
+Tire type and half-track type; according to armor protection, it is divided into full armor type (closed type), semi-armor type (semi-closed type) and open type. Full-armored hulls are usually closed and have protection against nuclear, chemical and biological weapons.
+Since self-anti-tank guns are mostly used to accompany tank attacks and operations, they are also known as "strike guns". After Germany, the Soviet Union, the United Kingdom, and the United States also developed and developed similar artillery guns.
+The self-propelled artillery has good off-road performance, fast entry and exit positions, most have armor protection, strong battlefield survivability, and some can float. The use of self-propelled artillery is more conducive to the continuous implementation of firepower support, so that the artillery and armored soldiers and motorized infantry combat coordination is more closely.
